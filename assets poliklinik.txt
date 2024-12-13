@@ -1,0 +1,2 @@
+assets menggunakan Admin LTE 3.2.0
+karena size file terlalu besar jadi saya tidak masukkan ke dalam github
